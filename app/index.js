@@ -1,4 +1,4 @@
-import CodersArray from "/CodersArray/CodersArray.js";
+import CodersArray from "./codersArray/CodersArray.js";
 
 const coders = new CodersArray(
   "Andrea",
